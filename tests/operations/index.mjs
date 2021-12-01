@@ -102,6 +102,12 @@ import "./tests/Colossus.mjs";
 import "./tests/ParseObjectIDTimestamp.mjs";
 import "./tests/Unicode.mjs";
 import "./tests/RSA.mjs";
+import "./tests/CBOREncode.mjs";
+import "./tests/CBORDecode.mjs";
+import "./tests/JA3Fingerprint.mjs";
+import "./tests/JA3SFingerprint.mjs";
+import "./tests/HASSH.mjs";
+
 
 // Cannot test operations that use the File type yet
 // import "./tests/SplitColourChannels.mjs";

@@ -61,7 +61,9 @@
             "Parse TLV",
             "CSV to JSON",
             "JSON to CSV",
-            "Avro to JSON"
+            "Avro to JSON",
+            "CBOR Encode",
+            "CBOR Decode"
         ]
     },
     {
@@ -189,8 +191,13 @@
             "URL Encode",
             "URL Decode",
             "Protobuf Decode",
+            "Protobuf Encode",
             "VarInt Encode",
             "VarInt Decode",
+            "JA3 Fingerprint",
+            "JA3S Fingerprint",
+            "HASSH Client Fingerprint",
+            "HASSH Server Fingerprint",
             "Format MAC addresses",
             "Change IP format",
             "Group IP addresses",
